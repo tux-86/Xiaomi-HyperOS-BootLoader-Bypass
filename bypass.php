@@ -276,7 +276,7 @@ while ($devices_count != 1) {
 }
 
 $device = $devices[0];
-$id = $adb -> getDeviceId($device[1], true);
+$id = $adb -> getDeviceId($device[1], false);
 logf("Processing device " . $device[0] . "(" . $device[1] . ")...");
 
 $adb -> clearLogcat($id);
@@ -326,7 +326,7 @@ if (is_resource($process)) {
 }
 
 logf("Refactoring parameters...");
-
+var_dump($args);
 $data = json_decode(decryptData($args), true);
 
 // V816 is the special identity for HyperOS in MIUI version
