@@ -1,4 +1,4 @@
-Unofficial fixes to the HyperOS bootloader bypass script. The original version of the script can be found here: https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass
+Unofficial fixes to the HyperOS bootloader bypass script. The [original version of the script](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass).
 
 # Xiaomi HyperOS BootLoader Bypass
 
