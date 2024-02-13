@@ -1,4 +1,4 @@
-Unofficial fixes to the HyperOS bootloader bypass script.
+Unofficial fixes to the [HyperOS bootloader bypass script](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass).
 
 # Xiaomi HyperOS BootLoader Bypass
 
